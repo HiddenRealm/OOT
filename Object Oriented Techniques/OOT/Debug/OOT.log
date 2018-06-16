@@ -1,0 +1,25 @@
+﻿  Collisions.cpp
+  HashTable.cpp
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(141): warning C4101: 'particle': unreferenced local variable
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(157): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(158): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\james\desktop\oot - assignment\oot\oot\hashtable.cpp(170): warning C4101: 'particle': unreferenced local variable
+  Main.cpp
+c:\users\james\desktop\oot - assignment\oot\oot\main.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Manager.cpp
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(143): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(143): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(180): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(227): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(265): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\james\desktop\oot - assignment\oot\oot\manager.cpp(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\users\james\desktop\oot - assignment\oot\oot\collisions.cpp(30): warning C4715: 'Collisions::CollideObject': not all control paths return a value
+  OOT.vcxproj -> C:\Users\James\Desktop\OOT - Assignment\OOT\Debug\OOT.exe
